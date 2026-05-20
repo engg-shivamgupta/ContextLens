@@ -51,7 +51,6 @@ To overcome limitations of standard chunking, ContextLens uses **parent-child in
 - **AI/LLM:** Google Gemini, Groq
 - **Vector DB:** Pinecone
 - **Database:** MongoDB Atlas (chat history), PostgreSQL/MySQL (analytics)
-- **Deployment:** Vercel (frontend), Render (backend)
 
 ## Environment
 
